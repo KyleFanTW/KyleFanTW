@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Thanks for dropping by!
+
+This is Kyle's profile. Expect projects me and my friend made over the years!
+
+
+
+
 <!--
 **KyleFanTW/KyleFanTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
